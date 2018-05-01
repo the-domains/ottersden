@@ -1,0 +1,63 @@
+name: OttersDen
+analytics: {}
+purpose:
+  - type: internal
+    label: Take a virtual tour
+    item: 8f3ab1f7-6743-49c3-8b65-b66f896a4384
+  - type: contact
+    url: 'mailto:rentals@theottersden.holiday'
+    label: Contact us to rent
+github: true
+description: Your next wild vacation escape
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author: {}
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+navigation:
+  - id: 8f3ab1f7-6743-49c3-8b65-b66f896a4384
+    name: Virtual Tour
+    type: content
+  - id: 87c4e097-d2ce-4d1c-8520-2fd0c391b545
+    name: About Otters' Den
+    type: content
+  - id: fc9df830-905a-496d-bb04-83c94eb2974f
+    name: Resources & Links
+    type: content
+layout_spectrum: 0.19896502478914982
+color:
+  lightness: 0.12596502996833608
+  brandColors:
+    - '#004FC5'
+    - '#6FE661'
+    - '#00DE81'
+    - '#43ADA9'
+    - '#A99AB7'
+  saturation: 0.8790930546117522
+  brandStrength: 0.672236725949212
+  rhythmicContrast: 0.5032764049915431
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/11d6992d-2f9d-45d1-b40b-fbf98535d479.png
+content_rating:
+  adult: false
+typography_spectrum: 0.6404292742953184
+opengraph: {}
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b364a72e-b279-45fd-ac2f-dbbb30af3362.png
+title: The Otters' Den
